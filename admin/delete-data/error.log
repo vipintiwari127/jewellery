@@ -1,0 +1,5 @@
+[15-Nov-2024 14:27:09 Asia/Manila] PHP Warning:  Undefined variable $pdo in C:\xamppp\htdocs\rare\delete-data\delete-slider.php on line 35
+[15-Nov-2024 14:27:09 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function beginTransaction() on null in C:\xamppp\htdocs\rare\delete-data\delete-slider.php:35
+Stack trace:
+#0 {main}
+  thrown in C:\xamppp\htdocs\rare\delete-data\delete-slider.php on line 35
